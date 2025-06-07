@@ -1,0 +1,42 @@
+﻿@page "/Admin/CarsAdminList"
+@model CarReservations.Razor.Pages.Admin.CarsAdminListModel
+@using CarReservations.Razor.Pages.Shared
+
+<h2>Panel administracyjny – lista samochodów</h2>
+
+<p>
+    <a class="btn btn-success" asp-page="CreateCar">Dodaj nowy samochód</a>
+</p>
+
+@if (!Model.CarList.Any())
+{
+    <div class="alert alert-info">Brak samochodów w bazie.</div>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Marka</th>
+                <th>Model</th>
+                <th>Rok</th>
+                <th>Akcje</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var car in Model.CarList)
+            {
+                <tr>
+                    <td>@car.Brand</td>
+                    <td>@car.Model</td>
+                    <td>@car.Year</td>
+                    <td>
+                        <a class="btn btn-sm btn-primary" asp-page="DetailsCar" asp-route-id="@car.Id">Szczegóły</a>
+                        <a class="btn btn-sm btn-warning text-white" asp-page="EditCar" asp-route-id="@car.Id">Edytuj</a>
+                        <a class="btn btn-sm btn-danger" asp-page="DeleteCar" asp-route-id="@car.Id">Usuń</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

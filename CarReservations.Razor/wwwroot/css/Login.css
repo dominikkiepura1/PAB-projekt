@@ -1,0 +1,17 @@
+﻿
+.card {
+    border: none;
+    border-radius: 0.5rem;
+}
+
+.card-title {
+    font-weight: 500;
+}
+
+.form-control-lg {
+    border-radius: 0.4rem;
+}
+
+.btn-primary {
+    border-radius: 0.4rem;
+}

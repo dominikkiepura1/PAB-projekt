@@ -1,0 +1,419 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|c:\\users\\dominik\\desktop\\projekt pab\\carreservations\\carreservations.razor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|solutionrelative:carreservations.razor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|c:\\users\\dominik\\desktop\\projekt pab\\carreservations\\carreservations.razor\\pages\\auth\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|solutionrelative:carreservations.razor\\pages\\auth\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|c:\\users\\dominik\\desktop\\projekt pab\\carreservations\\carreservations.razor\\pages\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|solutionrelative:carreservations.razor\\pages\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|c:\\users\\dominik\\desktop\\projekt pab\\carreservations\\carreservations.razor\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|solutionrelative:carreservations.razor\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|c:\\users\\dominik\\desktop\\projekt pab\\carreservations\\carreservations.razor\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|solutionrelative:carreservations.razor\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|c:\\users\\dominik\\desktop\\projekt pab\\carreservations\\carreservations.razor\\pages\\admin\\createcar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|solutionrelative:carreservations.razor\\pages\\admin\\createcar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|c:\\users\\dominik\\desktop\\projekt pab\\carreservations\\carreservations.razor\\pages\\admin\\createcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|solutionrelative:carreservations.razor\\pages\\admin\\createcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|c:\\users\\dominik\\desktop\\projekt pab\\carreservations\\carreservations.razor\\pages\\admin\\carsadminlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|solutionrelative:carreservations.razor\\pages\\admin\\carsadminlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|c:\\users\\dominik\\desktop\\projekt pab\\carreservations\\carreservations.razor\\pages\\admin\\editcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|solutionrelative:carreservations.razor\\pages\\admin\\editcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|c:\\users\\dominik\\desktop\\projekt pab\\carreservations\\carreservations.razor\\pages\\user\\carsuserlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|solutionrelative:carreservations.razor\\pages\\user\\carsuserlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|c:\\users\\dominik\\desktop\\projekt pab\\carreservations\\carreservations.razor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|solutionrelative:carreservations.razor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|c:\\users\\dominik\\desktop\\projekt pab\\carreservations\\carreservations.razor\\pages\\admin\\deletecar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|solutionrelative:carreservations.razor\\pages\\admin\\deletecar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|c:\\users\\dominik\\desktop\\projekt pab\\carreservations\\carreservations.razor\\pages\\admin\\deletecar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|solutionrelative:carreservations.razor\\pages\\admin\\deletecar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|c:\\users\\dominik\\desktop\\projekt pab\\carreservations\\carreservations.razor\\pages\\admin\\editcar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|solutionrelative:carreservations.razor\\pages\\admin\\editcar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|c:\\users\\dominik\\desktop\\projekt pab\\carreservations\\carreservations.razor\\pages\\admin\\carsadminlist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|solutionrelative:carreservations.razor\\pages\\admin\\carsadminlist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|c:\\users\\dominik\\desktop\\projekt pab\\carreservations\\carreservations.razor\\pages\\shared\\carvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|solutionrelative:carreservations.razor\\pages\\shared\\carvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|c:\\users\\dominik\\desktop\\projekt pab\\carreservations\\carreservations.razor\\pages\\user\\reserve.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|solutionrelative:carreservations.razor\\pages\\user\\reserve.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|c:\\users\\dominik\\desktop\\projekt pab\\carreservations\\carreservations.razor\\pages\\user\\reserve.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|solutionrelative:carreservations.razor\\pages\\user\\reserve.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|c:\\users\\dominik\\desktop\\projekt pab\\carreservations\\carreservations.razor\\pages\\user\\carsuserlist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|solutionrelative:carreservations.razor\\pages\\user\\carsuserlist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|c:\\users\\dominik\\desktop\\projekt pab\\carreservations\\carreservations.razor\\pages\\auth\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|solutionrelative:carreservations.razor\\pages\\auth\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|c:\\users\\dominik\\desktop\\projekt pab\\carreservations\\carreservations.razor\\pages\\auth\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D40E1F3-4DE2-4366-BCF2-71F0E5DC5E04}|CarReservations.Razor\\CarReservations.Razor.csproj|solutionrelative:carreservations.razor\\pages\\auth\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13579D2F-9B9B-4664-BC34-36856A77D426}|CarReservations.Api\\CarReservations.Api.csproj|c:\\users\\dominik\\desktop\\projekt pab\\carreservations\\carreservations.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13579D2F-9B9B-4664-BC34-36856A77D426}|CarReservations.Api\\CarReservations.Api.csproj|solutionrelative:carreservations.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13579D2F-9B9B-4664-BC34-36856A77D426}|CarReservations.Api\\CarReservations.Api.csproj|c:\\users\\dominik\\desktop\\projekt pab\\carreservations\\carreservations.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13579D2F-9B9B-4664-BC34-36856A77D426}|CarReservations.Api\\CarReservations.Api.csproj|solutionrelative:carreservations.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CarReservations.Razor\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CarReservations.Razor\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-04T16:19:01.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.css",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\wwwroot\\css\\Login.css",
+              "RelativeDocumentMoniker": "CarReservations.Razor\\wwwroot\\css\\Login.css",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\wwwroot\\css\\Login.css",
+              "RelativeToolTip": "CarReservations.Razor\\wwwroot\\css\\Login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-04T16:11:35.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "CarReservations.Razor\\Pages\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Auth\\Login.cshtml",
+              "RelativeToolTip": "CarReservations.Razor\\Pages\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T16:07:39.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditCar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Admin\\EditCar.cshtml",
+              "RelativeDocumentMoniker": "CarReservations.Razor\\Pages\\Admin\\EditCar.cshtml",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Admin\\EditCar.cshtml",
+              "RelativeToolTip": "CarReservations.Razor\\Pages\\Admin\\EditCar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T15:57:23.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Admin\\CreateCar.cshtml.cs",
+              "RelativeDocumentMoniker": "CarReservations.Razor\\Pages\\Admin\\CreateCar.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Admin\\CreateCar.cshtml.cs",
+              "RelativeToolTip": "CarReservations.Razor\\Pages\\Admin\\CreateCar.cshtml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswC8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:56:47.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateCar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Admin\\CreateCar.cshtml",
+              "RelativeDocumentMoniker": "CarReservations.Razor\\Pages\\Admin\\CreateCar.cshtml",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Admin\\CreateCar.cshtml",
+              "RelativeToolTip": "CarReservations.Razor\\Pages\\Admin\\CreateCar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T15:56:44.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarsAdminList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Admin\\CarsAdminList.cshtml",
+              "RelativeDocumentMoniker": "CarReservations.Razor\\Pages\\Admin\\CarsAdminList.cshtml",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Admin\\CarsAdminList.cshtml",
+              "RelativeToolTip": "CarReservations.Razor\\Pages\\Admin\\CarsAdminList.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T15:55:23.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CarReservations.Razor\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CarReservations.Razor\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T15:21:34.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Auth\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "CarReservations.Razor\\Pages\\Auth\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Auth\\Login.cshtml.cs",
+              "RelativeToolTip": "CarReservations.Razor\\Pages\\Auth\\Login.cshtml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwCkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:08:30.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarsUserList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\User\\CarsUserList.cshtml",
+              "RelativeDocumentMoniker": "CarReservations.Razor\\Pages\\User\\CarsUserList.cshtml",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\User\\CarsUserList.cshtml",
+              "RelativeToolTip": "CarReservations.Razor\\Pages\\User\\CarsUserList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T15:25:14.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditCar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Admin\\EditCar.cshtml.cs",
+              "RelativeDocumentMoniker": "CarReservations.Razor\\Pages\\Admin\\EditCar.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Admin\\EditCar.cshtml.cs",
+              "RelativeToolTip": "CarReservations.Razor\\Pages\\Admin\\EditCar.cshtml.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:57:27.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteCar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Admin\\DeleteCar.cshtml",
+              "RelativeDocumentMoniker": "CarReservations.Razor\\Pages\\Admin\\DeleteCar.cshtml",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Admin\\DeleteCar.cshtml",
+              "RelativeToolTip": "CarReservations.Razor\\Pages\\Admin\\DeleteCar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T15:57:56.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeleteCar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Admin\\DeleteCar.cshtml.cs",
+              "RelativeDocumentMoniker": "CarReservations.Razor\\Pages\\Admin\\DeleteCar.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Admin\\DeleteCar.cshtml.cs",
+              "RelativeToolTip": "CarReservations.Razor\\Pages\\Admin\\DeleteCar.cshtml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:57:59.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarsAdminList.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Admin\\CarsAdminList.cshtml.cs",
+              "RelativeDocumentMoniker": "CarReservations.Razor\\Pages\\Admin\\CarsAdminList.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Admin\\CarsAdminList.cshtml.cs",
+              "RelativeToolTip": "CarReservations.Razor\\Pages\\Admin\\CarsAdminList.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:55:01.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarVm.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Shared\\CarVm.cs",
+              "RelativeDocumentMoniker": "CarReservations.Razor\\Pages\\Shared\\CarVm.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Shared\\CarVm.cs",
+              "RelativeToolTip": "CarReservations.Razor\\Pages\\Shared\\CarVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:54:37.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Program.cs",
+              "RelativeDocumentMoniker": "CarReservations.Razor\\Program.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Program.cs",
+              "RelativeToolTip": "CarReservations.Razor\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwCkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:15:44.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Reserve.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\User\\Reserve.cshtml.cs",
+              "RelativeDocumentMoniker": "CarReservations.Razor\\Pages\\User\\Reserve.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\User\\Reserve.cshtml.cs",
+              "RelativeToolTip": "CarReservations.Razor\\Pages\\User\\Reserve.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:41:24.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Reserve.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\User\\Reserve.cshtml",
+              "RelativeDocumentMoniker": "CarReservations.Razor\\Pages\\User\\Reserve.cshtml",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\User\\Reserve.cshtml",
+              "RelativeToolTip": "CarReservations.Razor\\Pages\\User\\Reserve.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T15:34:51.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CarsUserList.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\User\\CarsUserList.cshtml.cs",
+              "RelativeDocumentMoniker": "CarReservations.Razor\\Pages\\User\\CarsUserList.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\User\\CarsUserList.cshtml.cs",
+              "RelativeToolTip": "CarReservations.Razor\\Pages\\User\\CarsUserList.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAvwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:26:57.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Auth\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "CarReservations.Razor\\Pages\\Auth\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Auth\\Logout.cshtml.cs",
+              "RelativeToolTip": "CarReservations.Razor\\Pages\\Auth\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:20:09.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Auth\\Logout.cshtml",
+              "RelativeDocumentMoniker": "CarReservations.Razor\\Pages\\Auth\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Razor\\Pages\\Auth\\Logout.cshtml",
+              "RelativeToolTip": "CarReservations.Razor\\Pages\\Auth\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T15:20:07.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "CarReservations.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Api\\appsettings.json",
+              "RelativeToolTip": "CarReservations.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T16:40:11.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CarReservations.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\Projekt PAB\\CarReservations\\CarReservations.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CarReservations.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T16:21:12.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

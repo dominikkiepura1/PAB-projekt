@@ -1,0 +1,9 @@
+﻿@page "/User/CancelReservation/{id:guid}"
+@model CarReservations.Razor.Pages.User.CancelReservationModel
+
+<h2>Anuluj rezerwację</h2>
+<p>Czy na pewno chcesz anulować rezerwację?</p>
+<form method="post">
+    <button type="submit" class="btn btn-danger">Anuluj rezerwację</button>
+    <a asp-page="/User/CarsUserList" class="btn btn-secondary">Powrót</a>
+</form>

@@ -1,0 +1,21 @@
+﻿@page "/Admin/DeleteCar/{id:guid}"
+@model CarReservations.Razor.Pages.Admin.DeleteCarModel
+
+<h2>Usuń samochód</h2>
+
+@if (Model.Car == null)
+{
+    <div class="alert alert-warning">Nie znaleziono samochodu.</div>
+}
+else
+{
+    <div class="mb-3">
+        <p>Czy na pewno chcesz usunąć poniższy samochód?</p>
+        <p><strong>@Model.Car.Brand @Model.Car.Model (@Model.Car.Year)</strong></p>
+    </div>
+
+    <form method="post">
+        <button type="submit" class="btn btn-danger">Usuń</button>
+        <a asp-page="CarsAdminList" class="btn btn-secondary ms-2">Anuluj</a>
+    </form>
+}

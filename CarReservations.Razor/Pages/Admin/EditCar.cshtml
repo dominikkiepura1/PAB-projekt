@@ -1,0 +1,30 @@
+﻿@page "/Admin/EditCar/{id:guid}"
+@model CarReservations.Razor.Pages.Admin.EditCarModel
+
+<h2>Edytuj samochód</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="Car.Id" />
+
+    <div class="mb-3">
+        <label asp-for="Car.Brand" class="form-label">Marka</label>
+        <input asp-for="Car.Brand" class="form-control" />
+        <span asp-validation-for="Car.Brand" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Car.Model" class="form-label">Model</label>
+        <input asp-for="Car.Model" class="form-control" />
+        <span asp-validation-for="Car.Model" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Car.Year" class="form-label">Rok produkcji</label>
+        <input asp-for="Car.Year" type="number" class="form-control" />
+        <span asp-validation-for="Car.Year" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Zapisz zmiany</button>
+    <a asp-page="CarsAdminList" class="btn btn-secondary ms-2">Anuluj</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,15 @@
+﻿@page "/User/Reserve/{id:guid}"
+@model CarReservations.Razor.Pages.User.ReserveModel
+
+<h2>Rezerwuj samochód</h2>
+<form method="post">
+    <div>
+        <label>Data i godzina rozpoczęcia:</label>
+        <input asp-for="From" type="datetime-local" />
+    </div>
+    <div>
+        <label>Data i godzina zakończenia:</label>
+        <input asp-for="To" type="datetime-local" />
+    </div>
+    <button class="btn btn-primary" type="submit">Zarezerwuj</button>
+</form>

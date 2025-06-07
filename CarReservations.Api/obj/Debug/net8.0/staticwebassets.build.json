@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "zDwIld1KJaB0COLHIJHRTYQrtd3OAHmreI4oUTe+Jg0=",
+  "Source": "CarReservations.Api",
+  "BasePath": "_content/CarReservations.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

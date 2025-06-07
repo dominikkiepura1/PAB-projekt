@@ -1,0 +1,28 @@
+﻿@page
+@model CarReservations.Razor.Pages.Admin.CreateCarModel
+
+<h2>Dodaj nowy samochód</h2>
+
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="Car.Brand" class="form-label">Marka</label>
+        <input asp-for="Car.Brand" class="form-control" />
+        <span asp-validation-for="Car.Brand" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Car.Model" class="form-label">Model</label>
+        <input asp-for="Car.Model" class="form-control" />
+        <span asp-validation-for="Car.Model" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Car.Year" class="form-label">Rok produkcji</label>
+        <input asp-for="Car.Year" type="number" class="form-control" />
+        <span asp-validation-for="Car.Year" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-success">Zapisz</button>
+    <a asp-page="/Admin/CarsAdminList" class="btn btn-secondary ms-2">Anuluj</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,24 @@
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Application\bin\Debug\net8.0\CarReservations.Application.deps.json
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Application\bin\Debug\net8.0\CarReservations.Application.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Application\bin\Debug\net8.0\CarReservations.Application.pdb
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Application\obj\Debug\net8.0\CarReservations.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Application\obj\Debug\net8.0\CarReservations.Application.AssemblyInfoInputs.cache
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Application\obj\Debug\net8.0\CarReservations.Application.AssemblyInfo.cs
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Application\obj\Debug\net8.0\CarReservations.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Application\obj\Debug\net8.0\CarReservations.Application.sourcelink.json
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Application\obj\Debug\net8.0\CarReservations.Application.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Application\obj\Debug\net8.0\refint\CarReservations.Application.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Application\obj\Debug\net8.0\CarReservations.Application.pdb
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Application\obj\Debug\net8.0\ref\CarReservations.Application.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Application\bin\Debug\net8.0\CarReservations.Application.deps.json
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Application\bin\Debug\net8.0\CarReservations.Application.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Application\bin\Debug\net8.0\CarReservations.Application.pdb
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Application\obj\Debug\net8.0\CarReservations.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Application\obj\Debug\net8.0\CarReservations.Application.AssemblyInfoInputs.cache
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Application\obj\Debug\net8.0\CarReservations.Application.AssemblyInfo.cs
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Application\obj\Debug\net8.0\CarReservations.Application.csproj.CoreCompileInputs.cache
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Application\obj\Debug\net8.0\CarReservations.Application.sourcelink.json
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Application\obj\Debug\net8.0\CarReservations.Application.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Application\obj\Debug\net8.0\refint\CarReservations.Application.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Application\obj\Debug\net8.0\CarReservations.Application.pdb
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Application\obj\Debug\net8.0\ref\CarReservations.Application.dll

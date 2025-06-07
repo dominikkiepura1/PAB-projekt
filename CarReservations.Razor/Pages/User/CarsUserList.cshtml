@@ -1,0 +1,41 @@
+﻿@page
+@model CarReservations.Razor.Pages.User.CarsUserListModel
+
+<h2>Lista samochodów</h2>
+<table class="table">
+    <thead><tr><th>Brand</th><th>Model</th><th>Year</th><th>Status</th><th>Akcje</th></tr></thead>
+    <tbody>
+        @foreach (var car in Model.CarList)
+        {
+            <tr>
+                <td>@car.Brand</td>
+                <td>@car.Model</td>
+                <td>@car.Year</td>
+                <td>
+                    @if (car.IsReserved)
+                    {
+                        <span>Zarezerwowany<br />
+                            od @car.ReservationFrom
+                            <br />
+                            do @car.ReservationTo
+                         </span>
+                    }
+                    else
+                    {
+                        <span>Wolny</span>
+                    }
+                </td>
+                <td>
+                    @if (car.IsReserved)
+                    {
+                        <a asp-page="/User/CancelReservation" asp-route-id="@car.ReservationId" class="btn btn-warning">Anuluj rezerwację</a>
+                    }
+                    else
+                    {
+                        <a asp-page="/User/Reserve" asp-route-id="@car.Id" class="btn btn-success">Rezerwuj</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

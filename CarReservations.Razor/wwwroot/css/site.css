@@ -1,0 +1,215 @@
+/* -----------------------------------------------------------
+   Podstawowe ustawienia body / ogólne t³o
+----------------------------------------------------------- */
+body {
+    background-color: #F4F8FA;
+    color: #004b6e;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* -----------------------------------------------------------
+   Navbar (header)
+----------------------------------------------------------- */
+.navbar {
+    background-color: #32a3d9 !important;
+    border-bottom: 1px solid #C5DDC9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.03);
+}
+
+    .navbar .navbar-brand {
+        color: #dbdbdb !important;
+        font-weight: 600;
+    }
+
+        .navbar .navbar-brand:hover {
+            color: #ffffff !important;
+            font-weight: 600;
+        }
+
+    .navbar .nav-link {
+        color: #dbdbdb !important;
+        font-size: 1rem;
+        margin-right: 1rem;
+    }
+
+        .navbar .nav-link:hover,
+        .navbar .nav-link:focus {
+            color: #ffffff !important;
+        }
+
+        /* Gdy link aktywny (klasa .active) */
+        .navbar .nav-link.active {
+            color: #333F48 !important;
+            font-weight: 600;
+        }
+
+/* -----------------------------------------------------------
+   Karty / formularze (card, form-control, button)
+----------------------------------------------------------- */
+.card {
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);
+}
+
+    .card .card-title {
+        color: #333F48;
+        font-weight: 500;
+    }
+
+.form-control {
+    border-radius: 0.375rem;
+    border: 1px solid #CED4DA;
+    transition: border-color 0.2s ease;
+}
+
+    .form-control:focus {
+        border-color: #5AA9E6;
+        box-shadow: 0 0 0 0.2rem rgba(90, 169, 230, 0.25);
+    }
+
+.btn-primary {
+    background-color: #5AA9E6;
+    border-color: #5AA9E6;
+    border-radius: 0.375rem;
+    font-weight: 500;
+    transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+    .btn-primary:hover,
+    .btn-primary:focus {
+        background-color: #428ECC;
+        border-color: #428ECC;
+    }
+
+.btn-secondary {
+    background-color: #C5CDD4;
+    border-color: #C5CDD4;
+    color: #333F48;
+}
+
+    .btn-secondary:hover,
+    .btn-secondary:focus {
+        background-color: #AAB3BC;
+        border-color: #AAB3BC;
+    }
+
+/* -----------------------------------------------------------
+   Tabela (table)
+----------------------------------------------------------- */
+.table {
+    background-color: #FFFFFF;
+    border: 1px solid #E1E9F0;
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+    .table thead th {
+        background-color: #E1ECF4;
+        color: #333F48;
+        font-weight: 600;
+        border-bottom: 2px solid #CED4DA;
+    }
+
+    .table tbody tr {
+        transition: background-color 0.2s ease;
+    }
+
+        .table tbody tr:hover {
+            background-color: #F0F4F8;
+        }
+
+    /* Usuñ domyœlne krawêdzie dla wyœrodkowanego wygl¹du */
+    .table th, .table td {
+        border: none;
+        padding: 0.75rem 1rem;
+    }
+
+/* -----------------------------------------------------------
+   Formularz logowania (jeœli oddzielny plik, ale mo¿emy nadpisaæ tu)
+----------------------------------------------------------- */
+.login-container {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F4F8FA;
+}
+
+.login-card {
+    max-width: 400px;
+    width: 100%;
+    background-color: #FFFFFF;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+    .login-card .card-body {
+        padding: 2rem;
+    }
+
+    .login-card .card-title {
+        font-size: 1.5rem;
+        margin-bottom: 1.5rem;
+        color: #333F48;
+        text-align: center;
+    }
+
+/* -----------------------------------------------------------
+   Stopka (footer) – przyk³ad jeœli masz
+----------------------------------------------------------- */
+.footer {
+    background-color: #DDEFE0;
+    border-top: 1px solid #C5DDC9;
+    padding: 1rem 0;
+    text-align: center;
+    color: #333F48;
+    font-size: 0.9rem;
+}
+
+/* -----------------------------------------------------------
+   Drobne dodatki
+----------------------------------------------------------- */
+a {
+    color: #5AA9E6;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+    a:hover {
+        color: #428ECC;
+    }
+
+h2, h3 {
+    color: #333F48;
+    font-weight: 500;
+}
+
+.alert-info {
+    background-color: #E1ECF4;
+    color: #333F48;
+    border: none;
+}
+
+.alert-danger {
+    background-color: #F8D7DA;
+    color: #842029;
+    border: none;
+}
+
+.form-label {
+    color: #333F48;
+    font-weight: 500;
+}
+
+/* Dostosowanie paginacji lub innych elementów, gdyby by³o potrzebne */
+.pagination .page-item .page-link {
+    color: #5AA9E6;
+}
+
+.pagination .page-item.active .page-link {
+    background-color: #5AA9E6;
+    border-color: #5AA9E6;
+    color: #FFFFFF;
+}

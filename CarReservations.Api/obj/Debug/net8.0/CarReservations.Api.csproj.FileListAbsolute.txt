@@ -1,0 +1,137 @@
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\obj\Debug\net8.0\CarReservations.Api.csproj.AssemblyReference.cache
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\obj\Debug\net8.0\CarReservations.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\obj\Debug\net8.0\CarReservations.Api.AssemblyInfoInputs.cache
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\obj\Debug\net8.0\CarReservations.Api.AssemblyInfo.cs
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\obj\Debug\net8.0\CarReservations.Api.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\obj\Debug\net8.0\CarReservations.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\obj\Debug\net8.0\CarReservations.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\obj\Debug\net8.0\CarReservations.Api.sourcelink.json
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\CarReservations.Api.exe
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\CarReservations.Api.deps.json
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\CarReservations.Api.runtimeconfig.json
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\CarReservations.Api.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\CarReservations.Api.pdb
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\CarReservations.Application.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\CarReservations.Domain.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\CarReservations.Infrastructure.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\CarReservations.Domain.pdb
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\CarReservations.Application.pdb
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\CarReservations.Infrastructure.pdb
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\obj\Debug\net8.0\staticwebassets\msbuild.CarReservations.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.CarReservations.Api.props
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CarReservations.Api.props
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CarReservations.Api.props
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\obj\Debug\net8.0\scopedcss\bundle\CarReservations.Api.styles.css
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\obj\Debug\net8.0\CarReser.CAE2EBD9.Up2Date
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\obj\Debug\net8.0\CarReservations.Api.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\obj\Debug\net8.0\refint\CarReservations.Api.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\obj\Debug\net8.0\CarReservations.Api.pdb
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\obj\Debug\net8.0\CarReservations.Api.genruntimeconfig.cache
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\obj\Debug\net8.0\ref\CarReservations.Api.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\Dominik\Desktop\Projekt PAB\CarReservations\CarReservations.Api\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\CarReservations.Api.staticwebassets.endpoints.json
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\CarReservations.Api.exe
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\CarReservations.Api.deps.json
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\CarReservations.Api.runtimeconfig.json
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\CarReservations.Api.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\CarReservations.Api.pdb
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\CarReservations.Application.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\CarReservations.Domain.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\CarReservations.Infrastructure.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\CarReservations.Domain.pdb
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\CarReservations.Application.pdb
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\bin\Debug\net8.0\CarReservations.Infrastructure.pdb
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\CarReservations.Api.csproj.AssemblyReference.cache
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\CarReservations.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\CarReservations.Api.AssemblyInfoInputs.cache
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\CarReservations.Api.AssemblyInfo.cs
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\CarReservations.Api.csproj.CoreCompileInputs.cache
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\CarReservations.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\CarReservations.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\CarReservations.Api.sourcelink.json
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\scopedcss\bundle\CarReservations.Api.styles.css
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\staticwebassets\msbuild.CarReservations.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\staticwebassets\msbuild.CarReservations.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.CarReservations.Api.props
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CarReservations.Api.props
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CarReservations.Api.props
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\CarReser.CAE2EBD9.Up2Date
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\CarReservations.Api.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\refint\CarReservations.Api.dll
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\CarReservations.Api.pdb
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\CarReservations.Api.genruntimeconfig.cache
+C:\Users\lapto\Desktop\gen\PAB-projekt\CarReservations.Api\obj\Debug\net8.0\ref\CarReservations.Api.dll
